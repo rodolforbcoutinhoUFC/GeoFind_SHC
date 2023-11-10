@@ -1,2 +1,4 @@
 # GeoFind_SHC
 Open repository for Geometric Search Scheduling Methodology for a Smar Home Controller
+
+This work presents a new methodology to schedule home appliances in order to reduce the energy bill and maintain the user comfort when this variable is related to time shifting of the loads. By exploring some properties of Brazilian energy tariff we had decomposed the time axis into a geometric space in which the movement of loads through time could be mapped. Analytic analysis of this properties leaded us to find a specific point into the decomposed time space that assures relative lower cost and minimum load shifting. Benchmark trials in results section will show that the proposed methodology is about thousand times faster than classic algorithms used to solve this class of optimization problem and consumes substantially less memory resources that could lead to a future implementation into a small embedded system.
