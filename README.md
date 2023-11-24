@@ -14,7 +14,7 @@ __Else__
 
 __Endif__
 
-## Open repository for Geometric Search Scheduling Methodology for a Smar Home Controller
+## Open repository for Geometric Search Scheduling Methodology for a Smart Home Controller
 
 Future abstract and link to published pappers will be here!
 
