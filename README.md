@@ -9,14 +9,13 @@ __If__ you get here through an Apendix A link,
 __Else__ 
 
     You may be lost in TimeSpace.
-    This is an underconstruction space about an unpublished (yet) work. 
-    Feel free to return in a few months when all the concepts will be stated and clear!
+    This is an underconstruction space about a Thesis In Electrical Engineering, with a published work. 
 
 __Endif__
 
 ## Open repository for Geometric Search Scheduling Methodology for a Smart Home Controller
 
-Future abstract and link to published pappers will be here!
+[Published Paper on MDPI Sensors](https://www.mdpi.com/1424-8220/24/6/1875)
 
 ## GitHub files structure
 
